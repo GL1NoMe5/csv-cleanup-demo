@@ -1,0 +1,6 @@
+id,company,email,status
+0001, North Studio , TEAM@example.com , active 
+0001,North Studio,team@example.com,active
+0002,Oak Workshop,SALES@example.org,active
+0002,Oak Workshop,hello@example.org,active
+,Unassigned Office, office@example.net ,pending
